@@ -1,5 +1,4 @@
 
-// variables
 
 let alarmListArr = [];
 const selectMenu = document.querySelectorAll("select");

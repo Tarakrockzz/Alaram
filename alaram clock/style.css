@@ -32,8 +32,8 @@ body{
 }
 
 .datetime:hover{
-    background: #2E94E3;
-    box-shadow: 0 0 30px #2E94E3;
+    background: #171718;
+    box-shadow: 0 0 30px #666869;
     border-radius: 5px;
 }
 
@@ -59,7 +59,7 @@ body{
 }
 
 .time span:last-child{
-    background: #2E94E3;
+    background: #af06f7;
     font-size: 30px;
     font-weight: 600;
     text-transform: uppercase;
